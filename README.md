@@ -14,7 +14,7 @@
 * Observability (ELK Stack, Graylog, Grafana, Zabbix, Prometheus)
 
 ### 📈 Stats 
-[![Andrei GitHub Stats](https://github-readme-stats.vercel.app/api?username=infratidev&theme=github_dark&show_icons=true)](https://github.com/infratidev)
+[![Andrei GitHub Stats](https://github-readme-stats.vercel.app/api?username=infratidev&theme=github_dark&show_icons=true&include_all_commits=true)](https://github.com/infratidev)
 
 ### 👨‍🎓  Languages
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infratidev&hide=scss&layout=compact&theme=github_dark&title_color=2ED3EA)
