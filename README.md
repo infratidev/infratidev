@@ -17,7 +17,7 @@
 [![Andrei GitHub Stats](https://github-readme-stats.vercel.app/api?username=infratidev&theme=vision-friendly-dark&show_icons=true&include_all_commits=true&border_color=3d0606)](https://github.com/infratidev)
 
 ### 👨‍🎓  Languages
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infratidev&hide=scss&layout=compact&theme=vision-friendly-dark&title_color=2ED3EA&border_color=3d0606)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infratidev&hide=scss&layout=compact&theme=vision-friendly-dark&border_color=3d0606)
 
 ## Get in touch
 [![Blog](https://img.shields.io/website?down_color=blue&down_message=infrati.dev&label=Blog&logo=ghost&logoColor=green&style=for-the-badge&up_color=blue&up_message=infrati.dev&url=https%3A%2F%2Finfrati.dev)](https://infrati.dev)
