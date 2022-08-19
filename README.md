@@ -23,7 +23,12 @@
 
 ## <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"> <b>Github Stats</b>
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infratidev&hide=scss&layout=compact&theme=gotham)![Andrei github stats](https://github-readme-stats.vercel.app/api?username=infratidev&show_icons=true&theme=gotham&include_all_commits=true)
+<div style="display: flex; flex-direction: row;">
+<p align="center"> 
+ <img class="img" style="height: auto; width: 418px;" src="https://github-readme-stats.vercel.app/api?username=infratidev&show_icons=true&theme=gotham&include_all_commits=true" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infratidev&hide=scss&layout=compact&theme=gotham" />
+</p>
+</div>
 
 
 ## 😜 Here's a Joke for you:
