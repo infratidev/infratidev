@@ -13,15 +13,13 @@
 * Dast/Sast/Sec: (SonarQube, Nessus, Burp Suite, OWASP ZAP, Vault)
 * Observability (ELK Stack, Graylog, Grafana, Zabbix, Prometheus)
 
-### 📈 Stats 
+### 📈 Stats and 👨‍🎓 Languages
 
 [![Andrei GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=infratidev&theme=gotham)](https://git.io/praveenscience)
 
-![Andrei GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=infratidev&theme=gotham) | ![Andrei github stats](https://github-readme-stats.vercel.app/api?username=infratidev&show_icons=true&theme=gotham&include_all_commits=true)
+![Andrei GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=infratidev&theme=gotham) | ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infratidev&hide=scss&layout=compact&theme=gotham) 
 
-### 👨‍🎓  Languages
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infratidev&hide=scss&layout=compact&theme=gotham)
+![Andrei github stats](https://github-readme-stats.vercel.app/api?username=infratidev&show_icons=true&theme=gotham&include_all_commits=true)
 
 ### 😜 Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
