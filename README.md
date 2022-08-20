@@ -25,7 +25,7 @@
 
 <div style="display: flex; flex-direction: row;">
 <p align="center"> 
- <img class="img" style="height: auto; width: 418px;" src="https://github-readme-stats.vercel.app/api?username=infratidev&show_icons=true&theme=gotham&include_all_commits=true" />
+ <img class="img" style="height: auto; width: 419px;" src="https://github-readme-stats.vercel.app/api?username=infratidev&show_icons=true&theme=gotham&include_all_commits=true" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infratidev&hide=scss&layout=compact&theme=gotham" />
 </p>
 </div>
