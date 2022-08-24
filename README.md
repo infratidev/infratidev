@@ -13,15 +13,15 @@
 * Dast/Sast/Sec: (SonarQube, Nessus, Burp Suite, OWASP ZAP, Vault)
 * Observability (ELK Stack, Graylog, Grafana, Zabbix, Prometheus)
 
-## <img src="https://media.giphy.com/media/GhRjInY9JbKms/source.gif" width="25"> <b>Contribution graph</b>
+## <img src="https://cdn-icons-png.flaticon.com/512/777/777460.png" width="25"> <b>Contribution graph</b>
 
-![Andrei GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=infratidev&theme=gotham)
+![Andrei's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=infratidev&theme=gotham)
 
-## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>GitHub Streak</b>
+## <img src="https://cdn-icons-png.flaticon.com/512/6577/6577286.png" width="25"> <b>GitHub Streak</b>
 
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=infratidev&theme=gotham" /> </p>
 
-## <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"> <b>Github Stats</b>
+## <img src="https://cdn-icons-png.flaticon.com/512/770/770848.png" width="25"> <b>Github Stats</b>
 
 <div style="display: flex; flex-direction: row;">
 <p align="center"> 
