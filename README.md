@@ -15,11 +15,11 @@
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/777/777460.png" width="25"> <b>Contribution graph</b>
 
-![Andrei's GitHub Activity Graph](https://infratidev-stats.herokuapp.com/graph?username=infratidev&theme=gotham)
+![Andrei's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=infratidev&theme=gotham)
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/6577/6577286.png" width="25"> <b>GitHub Streak</b>
 
-<p align="center"> <img alt="Current Streak" src="https://infratidev-streak-stats.herokuapp.com/?user=infratidev&theme=gotham" /> </p>
+<p align="center"> <img alt="Current Streak" src="https://streak-stats.demolab.com/?user=infratidev&theme=gotham" /> </p>
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/770/770848.png" width="25"> <b>Github Stats</b>
 
