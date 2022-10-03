@@ -6,7 +6,7 @@
 ### 💻 Technologies: Learning 
 
 * Container Service: (Docker, Kubernetes, Nomad)
-* IaC: (Ansible, Terraform, Terragrunt, Atlantis, Paker)
+* IaC: (Ansible, Terraform, Terragrunt, Atlantis, Packer)
 * Languages: (Shellscript, Powershell, Python, Php, .Net, Google AppScripts)
 * Cloud platforms: (OCI, AWS, Azure)
 * CI/CD: (Azure DevOps, GitHub Actions, Gitlab CI/CD)
