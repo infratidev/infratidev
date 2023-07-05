@@ -15,7 +15,7 @@
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/777/777460.png" width="25"> <b>Contribution graph</b>
 
-![Andrei's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=infratidev&theme=gotham)
+![Andrei's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=infratidev&theme=gotham)
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/6577/6577286.png" width="25"> <b>GitHub Streak</b>
 
